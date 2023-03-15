@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Czesc 👋, Jestem Jasiek</h1>
 <h3 align="center">Student Teleinformatyki na AGH</h3>
 
