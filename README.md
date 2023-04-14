@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JasiekSlaby?tab=repositories](https://github.com/JasiekSlaby?tab=repositories)
 
-- 💬 Ask me about **Angular,Java,wordpress**
+- 💬 Ask me about **Java,Web developmnet**
 
 - 📫 How to reach me **jslabyy@gmail.com**
 
